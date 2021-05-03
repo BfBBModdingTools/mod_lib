@@ -1,0 +1,6 @@
+# Ignore
+lib/obj/*
+example/obj/*
+*.exe
+*.o
+.vscode
